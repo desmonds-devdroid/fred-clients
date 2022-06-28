@@ -1,0 +1,29 @@
+{
+  "name": "fred-clients",
+  "version": "0.1.0",
+  "description": "Fred's Clients",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmonds-devdroid/fred-clients.git"
+  },
+  "keywords": [
+    "fred",
+    "clients",
+    "desmonds",
+    "desmond's"
+  ],
+  "author": "Binraj Desmond",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/desmonds-devdroid/fred-clients/issues"
+  },
+  "homepage": "https://github.com/desmonds-devdroid/fred-clients#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "uuid": "^8.3.2"
+  }
+}
